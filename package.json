@@ -1,0 +1,13 @@
+{
+  "name": "dgodd",
+  "description": "De gauche ou de droite CLI client",
+  "author": "neemzy <tom.panier@free.fr>",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.9"
+  }
+}
